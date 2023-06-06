@@ -16,5 +16,7 @@ int main()
         }            
     }
 
+    std::cout << "Counter: " << counter;
+
     return 0;
 }
